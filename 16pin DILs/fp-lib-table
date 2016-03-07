@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name fixed_MSOP-16)(type KiCad)(uri "$(KIPRJMOD)/fixed_MSOP-16.pretty")(options "")(descr ""))
+)
